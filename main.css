@@ -1,0 +1,28 @@
+body{background-color: azure;
+     width: auto;
+     margin: none;
+     border: solid black;}
+
+#modri1{font-size: 33px;
+    color: blue;
+    font-family: Garamond;
+    text-align: center;}
+
+#crni1{font size: 24px;
+  font-family: Garamond;
+  color:black;}
+
+table{background-color:#999966;
+      border: 1px dashed black;
+      width: auto;
+      font-family: Cursive;
+      color: black;
+    font-size: 14px;
+    border-collapse: collapse;}
+
+table, tr, td {border: 1px solid black;}
+
+
+
+
+
